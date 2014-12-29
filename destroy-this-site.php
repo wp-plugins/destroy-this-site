@@ -3,7 +3,7 @@ defined('ABSPATH') or die("No script kiddies please!");
 
 /**
  * Plugin Name: Destroy This Site
- * Description: Add a button to your page to destroy the looks of your site
+ * Description: Add a button to your page to destroy the looks of your site using the shortcode [destroy-this-site]
  * Version: 1.0.0
  * Author: Axel Jacobs
  * License: GPL2
